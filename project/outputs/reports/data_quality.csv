@@ -1,0 +1,7 @@
+Check,Value
+Source rows,1170
+Valid dated observations,720
+Invalid/missing dates,450
+Duplicate dates after date parsing,0
+Negative count cells,0
+Missing numeric values before fill,0
